@@ -6,9 +6,15 @@ _March 22, 2017_
 
 The current release date is: November 15th, 2018. We will be releasing more and more details in the next few weeks so be sure to check back often!
 
-* * *
+***
 
-<h2> Key Features </h2>
+_March 31, 2017_
+
+Want to get in on the action now? Beta testing will begin in May. We will post sign-up links very soon!
+
+***
+
+<h3> Key Features </h3>
 <div class="greybackground">
 	<div id="features">
 		<ul>
@@ -29,8 +35,5 @@ The current release date is: November 15th, 2018. We will be releasing more and 
 	<img src="/images/mc.jpg">
 </div>
 
-* * *
+### Game Details
 
-_March 31, 2017_
-
-Want to get in on the action now? Beta testing will begin in May. We will post sign-up links very soon!
