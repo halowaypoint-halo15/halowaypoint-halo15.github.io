@@ -13,10 +13,13 @@ header {
 	width: 100%;
 }
 
-body, #container, .inner {
+body, #container {
 	color: skyblue;
 	background: rgb(22,22,22);
 	text-shadow: none;
+}
+
+.inner {
 	width: 800px;
 }
 
