@@ -35,7 +35,7 @@ Want to get in on the action now? Beta testing will begin in May. We will post s
 
 ***
 
-### Game Details
+### Game Details........
 
 :---: | :---: | :---: | :---:
 **Release Date** | **Platform** | **Genre** | **Online Multiplayer**
