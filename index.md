@@ -1,12 +1,21 @@
-## Welcome to GitHub Pages
+## Halo 1.5 Revealed!
 
-You can use the [editor on GitHub](https://github.com/halowaypoint-halo15/halowaypoint-halo15.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+_March 22, 2017_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+343 Industries is excited to announce the game we've always wanted to make! We have partnered with the original creators of Halo CE and Perfect Dark 64 to bring you **Halo 1.5!** A new, much improved FPS that will be the best FPS game in the Halo franchise. We will be combining the best of Halo CE/PC and Perfect Dark 64/Goldeneye along with many great new features that were missing from the original. The current scheduled release date is: November 15th, 2018. We will be releasing more and more details in the next few weeks so be sure to check back often!
 
-### Markdown
+#### Key Features
+- Original Halo CE/PC gameplay
+- All new campaign
+- Cross-platform multiplayer (PC, Xbox One, PS4)
+- Dedicated multiplayer servers
+- Extensive multiplayer customization
+- Simulants (AI NPC) in multiplayer!
+- Advanced HUD
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_March 31, 2017_
+
+Want to get in on the action now? Beta testing will begin in May. We will post sign-up links very soon!
 
 ```markdown
 Syntax highlighted code block
@@ -27,11 +36,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/halowaypoint-halo15/halowaypoint-halo15.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
