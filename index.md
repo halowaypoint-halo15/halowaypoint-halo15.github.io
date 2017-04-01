@@ -54,6 +54,7 @@ Microsoft Studios | 2-4 | 2-24
 		<a href="http://www.halowaypoint.com/"><img src="/images/343.png"></a>
 		<a href="http://www.xbox.com/"><img src="/images/xbox.png"></a>
 		<a href="http://www.microsoft.com/games"><img src="/images/microsoft.png"></a>
+		<a href="http://www.playstation.com"><img src="/images/ps.png"></a>
 	</div>
 </footer>
 
