@@ -30,10 +30,12 @@ Want to get in on the action now? Beta testing will begin in May. We will post s
 			<li>Full stats tracker</li>
 		</ul>
 	</div>
-</div>
-<div id="sidepic">
-	<img src="/images/mc.jpg">
+	<div id="sidepic">
+		<img src="/images/mc.jpg">
+	</div>
 </div>
 
 ### Game Details
+
+blah blah blah
 
