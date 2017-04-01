@@ -30,9 +30,6 @@ Want to get in on the action now? Beta testing will begin in May. We will post s
 			<li>Full stats tracker</li>
 		</ul>
 	</div>
-	<div id="sidepic">
-		<img src="/images/mc.jpg">
-	</div>
 </div>
 
 ***
@@ -46,3 +43,15 @@ Nov. 15, 2018 | PC, Xbox One, PS4 | First Person Shooter | 2-24
 T-teen | 343 Industries | 1-4 | 2-4
 **Publisher** | **Co-Op** | **System Link**
 Microsoft Studios | 2-4 | 2-24
+
+***
+
+<footer class="greybackground">
+	<div id="sponsors">
+		<a href="http://www.halowaypoint.com/"><img src="/images/343.png"></a>
+		<a href="http://www.xbox.com/"><img src="/images/xbox.png"></a>
+		<a href="http://www.microsoft.com/games"><img src="/images/microsoft.png"></a>
+	</div>
+</footer>
+
+***
