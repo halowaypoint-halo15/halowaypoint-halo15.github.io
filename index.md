@@ -37,5 +37,12 @@ Want to get in on the action now? Beta testing will begin in May. We will post s
 
 ### Game Details
 
-blah blah blah
-
+Release Date | Platform | Genre | Online Multiplayer
+:---: | :---: | :---: | :---:
+Nov. 15, 2018 | PC, Xbox One, PS4 | First Person Shooter | 2-24
+Game Rating | Developer | Players | Online Co-Op
+:---: | :---: | :---: | :---:
+T-teen | 343 Industries | 1-4 | 2-4
+Publisher | Co-Op | System Link
+:---: | :---: | :---:
+Microsoft Studios | 2-4 | 2-24
