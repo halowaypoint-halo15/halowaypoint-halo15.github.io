@@ -1,8 +1,8 @@
-## Halo 1.5 Revealed!
+## Halo 1.5 Tactical Revealed!
 
 _March 22, 2017_
 
-343 Industries is excited to announce the game we've always wanted to make! We have partnered with the original creators of Halo CE and Perfect Dark 64 to bring you **Halo 1.5!** A new, much improved FPS that will be the best FPS game in the Halo franchise. We will be combining the best of Halo CE/PC and Perfect Dark 64/Goldeneye along with many great new features that were missing from the original. 
+343 Industries is excited to announce the game we've always wanted to make! We have partnered with the original creators of Halo CE and Perfect Dark 64 to bring you **Halo 1.5! Tactical** A new, much improved FPS that will be the best FPS game in the Halo franchise. We will be combining the best of Halo CE/PC and Perfect Dark 64/Goldeneye along with many great new features that were missing from the original. 
 
 The current release date is: November 15th, 2018. We will be releasing more and more details in the next few weeks so be sure to check back often!
 
@@ -35,14 +35,14 @@ Want to get in on the action now? Beta testing will begin in May. We will post s
 	</div>
 </div>
 
+***
+
 ### Game Details
 
-Release Date | Platform | Genre | Online Multiplayer
 :---: | :---: | :---: | :---:
+**Release Date** | **Platform** | **Genre** | **Online Multiplayer**
 Nov. 15, 2018 | PC, Xbox One, PS4 | First Person Shooter | 2-24
-Game Rating | Developer | Players | Online Co-Op
-:---: | :---: | :---: | :---:
+**Game Rating** | **Developer** | **Players** | **Online Co-Op**
 T-teen | 343 Industries | 1-4 | 2-4
-Publisher | Co-Op | System Link
-:---: | :---: | :---:
+**Publisher** | **Co-Op** | **System Link**
 Microsoft Studios | 2-4 | 2-24
