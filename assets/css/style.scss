@@ -32,7 +32,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .greybackground {
-	display: block;
 	background: grey;
 }
 
@@ -44,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #sidepic {
 	display: inline;
-	float: right;
+	clear: right;
 	max-width: 50%;
 }
 
