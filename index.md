@@ -15,7 +15,7 @@ Want to get in on the action now? Beta testing will begin in May. We will post s
 ***
 
 <h3> Key Features </h3>
-<div class="greybackground">
+<div>
 	<div id="features">
 		<ul>
 			<li>Original Halo CE/PC gameplay</li>
@@ -29,6 +29,9 @@ Want to get in on the action now? Beta testing will begin in May. We will post s
 			<li>Advanced customizable HUD</li>
 			<li>Full stats tracker</li>
 		</ul>
+	</div>
+		<div id="sidepic">
+		<img src="/images/mc.jpg">
 	</div>
 </div>
 
