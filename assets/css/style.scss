@@ -15,11 +15,16 @@ header {
 
 body, #container {
 	color: skyblue;
-	background: black;
+	background: rgb(22,22,22);
+	text-shadow: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
 	color: blue;
+}
+
+.greybackground {
+	background: grey;
 }
 
 #features {
@@ -36,7 +41,6 @@ h1, h2, h3, h4, h5, h6 {
 
 #sponsors {
 	display: inline;
-	background: grey;
 }
 
 #sponsors a {
