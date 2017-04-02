@@ -1,4 +1,4 @@
-<h1>April Fools ya noobs :P 343 is fraking 1th. Keenan was this any better than last year's april fools? LOL</h1>
+<h1>April Fools ya noobs :P 343 is fraking 1th.</h1>
 
 ## _Halo 1.5 Tactical_ Revealed!
 
