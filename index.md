@@ -1,3 +1,5 @@
+#April Fools ya noobs :P 343 is fraking 1th. Keenan was this any better than last year's april fools? LOL
+
 ## _Halo 1.5 Tactical_ Revealed!
 
 _March 22, 2017_
