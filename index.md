@@ -1,5 +1,7 @@
 <h1>April Fools ya noobs :P 343 is fraking 1th.</h1>
 
+***
+
 ## _Halo 1.5 Tactical_ Revealed!
 
 _March 22, 2017_
@@ -51,8 +53,13 @@ Microsoft Studios | 2-4 | 2-24
 
 ***
 
-<footer class="greybackground">
-	<div id="sponsors">
+### Community
+
+<footer>
+	<div class="greybackground">
+		<i class="fa fa-facebook-official fa-2x"></i>
+	</div>
+	<div id="sponsors" class="greybackground">
 		<a href="http://www.halowaypoint.com/"><img src="/images/343.png"></a>
 		<a href="http://www.xbox.com/"><img src="/images/xbox.png"></a>
 		<a href="http://www.microsoft.com/games"><img src="/images/microsoft.png"></a>
