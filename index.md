@@ -55,7 +55,7 @@ Microsoft Studios | 2-4 | 2-24
 
 ### Community
 
-<footer>
+<div>
 	<div class="greybackground">
 		<i class="fa fa-facebook-official fa-2x"></i>
 	</div>
@@ -66,6 +66,6 @@ Microsoft Studios | 2-4 | 2-24
 		<a href="http://www.sony.com/electronics/playstation"><img src="/images/sony.jpg"></a>
 		<a href="http://www.playstation.com"><img src="/images/ps.png"></a>
 	</div>
-</footer>
+</div>
 
 ***
