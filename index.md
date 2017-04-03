@@ -1,4 +1,4 @@
-<h1>April Fools ya noobs :P 343 is fraking 1th.</h1>
+<h1>dafuq, April Fools ya noobs :P 343 is fraking 1th.</h1>
 
 ***
 
