@@ -60,11 +60,11 @@ Microsoft Studios | 2-4 | 2-24
 		<i class="fa fa-facebook-official fa-2x"></i>
 	</div>
 	<div id="sponsors" class="greybackground">
-		<a href="http://www.halowaypoint.com/"><img src="/images/343.png"></a>
-		<a href="http://www.xbox.com/"><img src="/images/xbox.png"></a>
-		<a href="http://www.microsoft.com/games"><img src="/images/microsoft.png"></a>
-		<a href="http://www.sony.com/electronics/playstation"><img src="/images/sony.jpg"></a>
-		<a href="http://www.playstation.com"><img src="/images/ps.png"></a>
+		<img src="/images/343.png" href="http://www.halowaypoint.com/">
+		<img src="/images/xbox.png" href="http://www.xbox.com/">
+		<img src="/images/microsoft.png" href="http://www.microsoft.com/games">
+		<img src="/images/sony.jpg" href="http://www.sony.com/electronics/playstation">
+		<img src="/images/ps.png" href="http://www.playstation.com">
 	</div>
 </div>
 
