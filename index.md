@@ -23,7 +23,7 @@ Want to get in on the action now? Beta testing will begin in May. We will post s
 	<div id="sidepic">
 		<img src="/images/mc.jpg">
 	</div>
-	<div id="features">
+	<div>
 		<ul>
 			<li>Original Halo CE/PC gameplay</li>
 			<li>All new campaign</li>
@@ -63,7 +63,7 @@ T-teen | 343 Industries | 1-4 | 2-4
 		<a href="http://www.twitch.tv/halo"><i class="fa fa-twitch fa-3x"></i></a>
 		<a href="http://instagram.com/halo"><i class="fa fa-instagram fa-3x"></i></a>
 	</div>
-	<div id="sponsors" class="greybackground">
+	<div class="greybackground">
 		<a href="http://www.halowaypoint.com/"><img src="/images/343.png"></a>
 		<a href="http://www.xbox.com/"><img src="/images/xbox.png"></a>
 		<a href="http://www.microsoft.com/games"><img src="/images/microsoft.png"></a>

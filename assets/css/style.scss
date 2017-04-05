@@ -17,7 +17,7 @@ header {
 	width: 100%;
 }
 
-body, i, #container {
+body, #container {
 	color: rgb(200,200,255);
 	background: rgb(22,22,22);
 	text-shadow: none;
@@ -34,18 +34,13 @@ h1, h2, h3, h4, h5, h6 {
 .greybackground {
 	background: grey;
 	width: 100%;
-	margin: 1px;
 }
 
 #sidepic {
 	float: right;
 }
 
-#sponsors {
-	display: inline;
+i {
+	margin: 1px 8px;
 }
 
-#sponsors img {
-	max-width: 15px;
-	padding: 1em;
-}
