@@ -18,7 +18,7 @@ Want to get in on the action now? Beta testing will begin in May. We will post s
 
 ***
 
-<h3> Key Features </h3>
+### Key Features
 <div>
 	<div id="sidepic">
 		<img src="/images/mc.jpg">
@@ -48,14 +48,14 @@ Want to get in on the action now? Beta testing will begin in May. We will post s
 Nov. 15, 2018 | PC, Xbox One, PS4 | First Person Shooter | 2-24
 **Game Rating** | **Developer** | **Players** | **Online Co-Op**
 T-teen | 343 Industries | 1-4 | 2-4
-**Publisher** | **Co-Op** | **System Link**
-Microsoft Studios | 2-4 | 2-24
+ | **Publisher** | **Co-Op** | **System Link**
+ | Microsoft Studios | 2-4 | 2-24
 
 ***
 
 ### Community
 
-<div class="greybackground">
+<div>
 	<div class="greybackground">
 		<a href="https://www.facebook.com/Halo"><i class="fa fa-facebook-official fa-3x"></i></a>
 		<a href="https://twitter.com/Halo"><i class="fa fa-twitter fa-3x"></i></a>
