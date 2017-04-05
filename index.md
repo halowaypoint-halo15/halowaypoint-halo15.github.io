@@ -57,7 +57,11 @@ Microsoft Studios | 2-4 | 2-24
 
 <div class="greybackground">
 	<div class="greybackground">
-		<i class="fa fa-facebook-official fa-2x"></i>
+		<a href="https://www.facebook.com/Halo"><i class="fa fa-facebook-official fa-3x"></i></a>
+		<a href="https://twitter.com/Halo"><i class="fa fa-twitter-official fa-3x"></i></a>
+		<a href="http://www.youtube.com/user/HaloWaypoint"><i class="fa fa-youtube-official fa-3x"></i></a>
+		<a href="http://www.twitch.tv/halo"><i class="fa fa-twitch-official fa-3x"></i></a>
+		<a href="http://instagram.com/halo"><i class="fa fa-instagram-official fa-3x"></i></a>
 	</div>
 	<div id="sponsors" class="greybackground">
 		<a href="http://www.halowaypoint.com/"><img src="/images/343.png"></a>
